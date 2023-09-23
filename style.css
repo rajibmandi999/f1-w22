@@ -1,0 +1,141 @@
+*{
+    margin: 0 10px;
+    padding: 0;
+}
+.contenar{
+    
+    width: 100%;
+    background-image: url(Rectangle\ 31.jpg);
+    background-size: cover;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.div1{
+    margin: 100px 0;
+
+}
+.div1 h1{
+    font-size: 55px;
+}
+.div1 .input{
+    border: none;
+    width: 300px;
+    height: 60px;
+    border-radius:  20px 0 0 20px ;
+    
+}
+.list ul li{
+    margin-top: 20px;
+    color: rgb(16, 99, 111);
+    display: inline-block;
+    font-size: 20px;
+    
+}
+.list li{
+    padding-left: 40px;
+}
+.div1 .btn{
+    height: 60px;
+    width: 130px;
+    margin-left: -20px;
+    border-radius: 0 20px 20px 0px;
+    border: none;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(31, 100, 150);
+    margin-bottom: 0px;
+
+}
+.f1 p{
+    font-size: 45px;
+    font-weight: 10px
+    ;
+}
+.last{
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.f1{
+    margin-top: 100px;
+}
+.f2 img{
+    margin-top: 100px;
+
+}
+.f1 .btnn{
+    margin-top: 40px;
+    margin-left: 200px;
+    
+    width: 130px;
+    
+    border-radius: 20px;
+    border: none;
+    font-size: 20px;
+    color: aliceblue;
+    background-color: lightblue ;
+    margin-bottom: 0px;
+}
+
+
+.f1 h1{
+    font-size: 50px;
+}
+
+
+.div2{
+    margin: 100px 0;
+
+}
+.con2{
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box2 h1{
+    font-size: 50px;
+}
+.box1 img {
+   border-radius: 20px;
+   
+}
+.ritername{
+    display: flex;
+    justify-content: space-between;
+}
+.ritername p{
+    color:#666362;
+    font-size: 25px;
+}
+.box2 p{
+    
+    font-size: 30px;
+    margin-top: 10px;
+}
+.card{
+    width: 29vw;
+    box-shadow: 0px 3px 2px 2px grey;
+    border-radius: 15px;
+    
+}
+.card img{
+    width: 30vw;
+    border-radius: 15px;
+    width: 100%;
+    margin-left: 0px;
+
+}
+.card_cont{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.card span{
+    float: right;
+    color:#666362;
+    margin: 15px;
+    font-size: 20px;
+}
